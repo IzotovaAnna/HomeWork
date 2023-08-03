@@ -1,2 +1,2 @@
-# module-17
+# module
 Python basics / homework
